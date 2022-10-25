@@ -3,7 +3,7 @@
  */
 package com.politecnicomalaga.ejercicio_bucle_4;
 
-public class ejercicio_bucle_4 {
+public class App {
 
     public static void main(String[] args) {
         
